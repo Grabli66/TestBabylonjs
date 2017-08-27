@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es6",
+        "sourceRoot": "./src",
+        "module": "amd",
+        "outDir": "./out",
+        "sourceMap": true,
+        "watch": true
+    }
+}
